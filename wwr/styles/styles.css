@@ -20,18 +20,21 @@ body {
 header {
     background-color: green;
     font-family: 'Rock Salt', sans-serif;
-    font-size: 2em;
+    font-size: 1em;
 }
 nav a:hover {
     background-color: blue
     ;
     color: steelblue;
 }
-.icon {
-    width: 80pxb;
+.icon, .logo {
+    width: 80px;
 }
 footer p {
     text-size-adjust: 1.2em;
+}
+footer a {
+    color: #003049;
 }
 footer p a:hover {
     text-decoration: underline;
@@ -60,4 +63,7 @@ nav a {
 }
 main section img {
     box-sizing: border-box;
+}
+nav a,#hero-msg h1, #hero-msg h4,.button-box,main, section {
+    text-align: center;
 }
