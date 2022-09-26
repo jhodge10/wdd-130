@@ -2,10 +2,9 @@
 
 
 
-div {
+#content {
     max-width: 1600px;
     margin: 0 auto;
-    text-align: center;
 }
 #background {
     height: 725px;
