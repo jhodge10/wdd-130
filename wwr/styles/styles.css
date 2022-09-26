@@ -7,8 +7,9 @@ div {
     margin: 0 auto;
     text-align: center;
 }
-#backround {
+#background {
     height: 725px;
+    background-color: #003049;
 }
 body {
     background-color: steelblue;
