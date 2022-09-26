@@ -33,6 +33,9 @@ nav a:hover {
 footer p {
     text-size-adjust: 1.2em;
 }
+#hero-img {
+    width: 100%;
+}
 footer a {
     color: #003049;
 }
