@@ -1,7 +1,7 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Stardos+Stencil&display=swap');
 
 :root {
   /* change the values below to your colors from your palette coolor palette = https://coolors.co/palette/1b4332-3e7f24-f4d58d-df0c01-8d0801*/
@@ -12,8 +12,8 @@ Fonts are separated by a | */
   --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "IM Fell French Canon SC";
-  --paragraph-font: Lato, Helvetica, sans-serif;
+  --heading-font: "Stardos Stencil";
+  --paragraph-font: Patrick Hand, Roboto, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #396E94;  /* headlines on a white background */ 
