@@ -11,6 +11,12 @@
 .mando_image {
     max-width: 800px;
 }
+.vaders_image {
+    max-width: 800px;
+}
+body {
+    background-color: #f4d58d;
+}
 header {
     background-color: #3e7f24;
     font-family: Stardos Stencil;
@@ -52,4 +58,10 @@ footer a:hover {
 }
 .lightsabers {
     font-family: Patrick Hand;
+}
+#dueling_box {
+    font-family: Stardos Stencil;
+}
+#rules-box {
+    font-family: Stardos Stencil;
 }
