@@ -1,6 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Stardos+Stencil&display=swap');
+
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
 .rex_image {
-    width: 100%;
+    max-width: 800px;
 }
 .mando_image {
-    width: 100%;
+    max-width: 800px;
+}
+header {
+    background-color: #3e7f24;
+    font-family: Stardos Stencil;
+    font-size: 1em;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav a:hover {
+    background-color: #DF0C01;
+    color: white;
+}   
+.logo {
+    width: 80px;
+}
+footer p {
+    text-size-adjust: 1.2em;
+}
+footer {
+    background-color: #3e7f24;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+footer a:hover {
+    background-color: #DF0C01;
+    color: white;
+}
+#rex-box {
+    font-family: Patrick Hand;
+}
+#mando-msg {
+    font-family: Patrick Hand;
+}
+.lightsabers {
+    font-family: Patrick Hand;
 }
